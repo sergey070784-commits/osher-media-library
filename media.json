@@ -1,1 +1,65 @@
+{
+  "site": {
+    "hero": {
+      "photos": []
+    },
 
+    "about": {
+      "title": "אודות",
+      "text": "",
+      "photos": []
+    },
+
+    "services": {
+      "photos": []
+    },
+
+    "categoryImages": {
+      "fashion": "",
+      "personal": "",
+      "beauty": "",
+      "restaurants": "",
+      "coffee": "",
+      "wellness": "",
+      "branding": "",
+      "videoEditing": "",
+      "ugc": "",
+      "businessPromo": "",
+      "courses": ""
+    }
+  },
+
+  "lifestyle": {
+    "fashion": [],
+    "personal": [],
+    "beauty": []
+  },
+
+  "business": {
+    "restaurants": [],
+    "coffee": [],
+    "wellness": [],
+    "branding": []
+  },
+
+  "services": {
+    "videoEditing": [],
+    "ugc": [],
+    "businessPromo": [],
+    "courses": []
+  },
+
+  "photos": {
+    "fashion": [],
+    "personal": [],
+    "beauty": [],
+    "restaurants": [],
+    "coffee": [],
+    "wellness": [],
+    "branding": [],
+    "videoEditing": [],
+    "ugc": [],
+    "businessPromo": [],
+    "courses": []
+  }
+}
