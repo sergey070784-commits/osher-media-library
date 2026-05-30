@@ -30,16 +30,101 @@
   },
 
   "lifestyle": {
-    "fashion": [],
-    "personal": [],
-    "beauty": []
+    "fashion": [
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924871/%D7%9E%D7%A9%D7%A7%D7%A4%D7%99_allure_kdvidr.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      }
+    ],
+
+    "personal": [
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924868/Mello_aaymwf.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924438/Go_free_msuffl.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      }
+    ],
+
+    "beauty": [
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924767/%D7%9E%D7%A1%D7%A4%D7%A8%D7%94_-_%D7%98%D7%99%D7%A4%D7%95%D7%9C_%D7%A7%D7%A8%D7%98%D7%99%D7%9F_kgtbjh.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      }
+    ]
   },
 
   "business": {
-    "restaurants": [],
-    "coffee": [],
-    "wellness": [],
-    "branding": []
+    "restaurants": [
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924710/%D7%A7%D7%A4%D7%94_%D7%9C%D7%A0%D7%93%D7%95%D7%95%D7%A8_ednj2m.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924614/%D7%91%D7%95%D7%A8%D7%92%D7%A8_%D7%98%D7%9C_wtq2hr.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924289/%D7%9E%D7%A1%D7%A2%D7%93%D7%AA_%D7%9E%D7%99%D7%98%D7%90%D7%A4_szqua0.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924266/%D7%9E%D7%A1%D7%A2%D7%93%D7%AA_%D7%A1%D7%95%D7%A8%D7%A0%D7%98%D7%95_pe8ceu.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924180/%D7%92%D7%9C%D7%99%D7%93%D7%AA_%D7%90%D7%95%D7%98%D7%9C%D7%95_h866if.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      }
+    ],
+
+    "coffee": [
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924574/%D7%A2%D7%92%D7%9C%D7%AA_%D7%A7%D7%A4%D7%94_%D7%93%D7%9C%D7%99%D7%A0%D7%93%D7%94_%D7%A0%D7%A1_%D7%A6%D7%99%D7%95%D7%A0%D7%94_gbj04i.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      }
+    ],
+
+    "wellness": [
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924813/%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95_%D7%9C%D7%A4%D7%99%D7%9C%D7%90%D7%98%D7%99%D7%A1_mlphve.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924486/%D7%A7%D7%9C%D7%99%D7%A0%D7%99%D7%A7%D7%94_%D7%A8%D7%A4%D7%95%D7%90%D7%99%D7%AA_tmwg4h.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      }
+    ],
+
+    "branding": [
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924629/%D7%9E%D7%A4%D7%99%D7%A7_%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D_zrzagt.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924612/Help_buy_xrryck.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924264/%D7%90%D7%A4%D7%9C%D7%99%D7%A7%D7%A6%D7%99%D7%94_yp6xv1.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      },
+
+      {
+        "video": "https://res.cloudinary.com/dbbkpk3ed/video/upload/q_auto/f_auto/v1779924216/%D7%97%D7%91%D7%A8%D7%AA_GO_FREE_meobcn.mov",
+        "tiktok": "https://vt.tiktok.com/ZSxDYyVnL/"
+      }
+    ]
   },
 
   "services": {
